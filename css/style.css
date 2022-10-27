@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
 
 @import url("components/container.css");
-@import url("components/card.css");
-@import url("components/btn.css");
+@import url("components/button.css");
+@import url("components/cards.css");
 /* --- Fonts --- */
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
